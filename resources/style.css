@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+h1{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p{
+  color: white;
+}
+
+#p-travelguide{
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+#p-excursion{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+#p-comingsoon{
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+}
