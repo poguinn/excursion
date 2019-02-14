@@ -40,3 +40,10 @@ p{
   font-weight: 300px;
   font-size: 42px;
 }
+
+.copyright{
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+  font-size: 20px;
+}
